@@ -1,0 +1,7 @@
+mypy
+flake8
+black
+ipykernel
+jupyterlab
+cryptography==3.4.6
+jedi==0.17.2
